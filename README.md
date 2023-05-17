@@ -1,15 +1,14 @@
 # Accenture-Internship
-## Task - From given set of data, needs to find out Top 5 customers for Sprocket Ply Ltd.
-- First they have given the data in CSV files, which contain number of datasets. It contain information about customers personal information, what product they have bought from last two years and where they work, industry and their background information. Data was about Bicycle shop and transcation pattern.
-- I started with exploration of data. Understanding of data and relationship between them, data types of data, how they are important to me to get the result, what I will need and all.
-- I deleted those rows and columns which are not important. I have used Python, Pandas and Jupyter.
+## Task - From given set of data, needs to find out Top 5 customers for SocialBuzz.
+- SocialBuzz is a company which is social website which has many videos, photos, audio data about various categories. They wanted to find out what are top 5 popular categories.
+- The data was in Excel. Data was about customers reaction, type of reaction, what category type, score for each reaction. ex- user likes to see animal category, good reaction, score is 10.  
+- I started with exploration of data. Understanding of data and relationship between them, how they are important to me to get the result, what I will need and all.
+- I deleted those rows and columns which are not important. Merge the data into one file using Vlookup.
+- Created basic pivot table to see top 5 categories and total score. 
 - Next step data modeling, I have used PowerBi for it. Realtionship between the datasets.
-- Everthing was ready to start with visualization. I have created couple of reports. 
-- Reports on Top 10 customers, find customers job industry, Who are frequent buyers, do they have car etc.
+- Everthing was ready to start with visualization. I have created couple of reports using PowerBi.
+- Reports on Top 5 categories, what type of content they prefer to watch like video or photos etc., yearly changes in users preference.
 - Last step was presentation, I have used Power Point. 
-- First slide, what points need to be cleared.
-- Second slide, why data matters
-- Third slide for data exploration and what I found out about data.
-- Fourth slide for data modeling, explained relationship in dataset.
-- Fifth slide for multiple data visualization. Used bar chart and table for visualization.
-- Finally I conclude that customers,customers from affluent and high net worth are valuable customers.If we subcategorise them then they  are from manufacturing and finance job industry. 
+- I have mentioned the companies information, problem or what help they need from Accenture, team information, various visualization and come up with top 5 categories.
+- Top categories are animal, science, health, technology and culture.
+- I have mentioned that people like to follow animal category but if they need more users then they have to consider other 4 categories.
