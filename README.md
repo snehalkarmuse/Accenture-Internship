@@ -1,5 +1,5 @@
 # Accenture-Internship
-## Task - From given set of data, needs to find out what customers are valuable customers for Sprocket Ply Ltd.
+## Task - From given set of data, needs to find out Top 5 customers for Sprocket Ply Ltd.
 - First they have given the data in CSV files, which contain number of datasets. It contain information about customers personal information, what product they have bought from last two years and where they work, industry and their background information. Data was about Bicycle shop and transcation pattern.
 - I started with exploration of data. Understanding of data and relationship between them, data types of data, how they are important to me to get the result, what I will need and all.
 - I deleted those rows and columns which are not important. I have used Python, Pandas and Jupyter.
